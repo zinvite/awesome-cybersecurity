@@ -39,6 +39,7 @@ Cybersecurity is essential to securing digital infrastructure, ensuring privacy,
 
 - [AlienVault OTX](https://otx.alienvault.com/) – Open threat intelligence sharing platform.
 - [Abuse.ch](https://abuse.ch/) – Malware and threat intelligence trackers.
+- [defend.network](https://defend.network) – Free AI-powered daily threat briefings and weekly vulnerability reports structured by threat type, industry, and severity, with action checklists and remediation guidance.
 - [MISP](https://www.misp-project.org/) – Open-source threat intelligence sharing platform.
 - [VirusTotal](https://www.virustotal.com/) – Analyze files and URLs for malware, share results with the community.
 
